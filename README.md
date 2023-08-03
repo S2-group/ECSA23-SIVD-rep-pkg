@@ -23,6 +23,8 @@ This is the root directory of the repository. The directory is structured as fol
      |--- data/
             |
             |--- ECSA2023 - Appendices.pdf
-                    The file comprises all the appendices of the study, namely Appendix A (including evaluation questions), Appendix B (including initial evaluation results), and Appendix C (including secondary evaluation results).
+                    The file comprises all the appendices of the study, namely Appendix A
+                    (including evaluation questions), Appendix B (including initial evaluation 
+                    results), and Appendix C (including secondary evaluation results).
 
      
